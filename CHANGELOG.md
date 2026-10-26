@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.1.0 — 2026-10-26
+
+- Nuove build gratuite Windows x64 e Linux x64/ARM64, oltre a Windows ARM64.
+- Compilazione su runner nativi GitHub Actions, test GUI e release automatizzata.
+- Pacchetti portabili con LICENSE e istruzioni per piattaforma.
+
+
 ## v1.0.0 — 2026-10-26
 
 - Interfaccia desktop responsive, brand PolarLabs.
