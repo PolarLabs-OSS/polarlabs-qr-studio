@@ -10,6 +10,8 @@ PolarLabs QR Studio trasforma i colori e la silhouette di un logo in un mosaico 
 
 ## Download e avvio
 
+**[Scarica codice sorgente v1.0.0](downloads/PolarLabs-QR-Studio-v1.0.0-source.zip)**. Le impronte SHA-256 degli archivi sono in [SHA256SUMS.txt](SHA256SUMS.txt).
+
 **[Scarica PolarLabs QR Studio v1.0.0 per Windows ARM64](downloads/PolarLabs-QR-Studio-v1.0.0-Windows-ARM64.zip)**, estrai lo ZIP e avvia `PolarLabs-QR-Studio.exe`. Per il codice sorgente usa **Code > Download ZIP** oppure git clone.
 
 > **CompatibilitÃ :** il programma precompilato Ã¨ destinato a Windows 11 **ARM64** (per esempio alcuni Microsoft Surface). Non Ã¨ una build Windows x64. L'eseguibile non Ã¨ firmato digitalmente: Windows SmartScreen, Smart App Control o criteri aziendali possono bloccarlo. **Non disattivare le protezioni di Windows per eseguirlo**; in quel caso avvia il codice sorgente come indicato sotto.
