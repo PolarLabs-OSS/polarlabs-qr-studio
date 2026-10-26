@@ -2,7 +2,7 @@
 
 **QR artistici in stile pixel art, generati localmente da un logo PNG/SVG e da un URL.**
 
-![QR di esempio](assets/sample-qr.png)
+![PolarLabs Academy - QR Pixel Art con logo del lupo](assets/QR_PolarLabs_Academy_PixelArt.png)
 
 **Gratis â€¢ Open source â€¢ Windows ARM64 â€¢ Nessun account â€¢ Nessun caricamento di loghi online**
 
