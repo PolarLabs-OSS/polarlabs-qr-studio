@@ -81,6 +81,8 @@ jobs:
             --collect-all customtkinter \
             --collect-all resvg_py \
             --collect-all zxingcpp \
+            --hidden-import PIL._tkinter_finder \
+            --hidden-import PIL._imagingtk \
             studio.py
       - name: Smoke-test GUI and bundled executable (Windows)
         if: matrix.os == 'windows'
