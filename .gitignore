@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.spec
+*.log
+*.b64
+*.webp
+*.zip
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+output/
+test-soft-exports/
