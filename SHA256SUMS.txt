@@ -1,0 +1,2 @@
+f3b8394c19c5cab202e4a2aeb94256834d2922d9a17bc635512208c6e3bf2d08  PolarLabs-QR-Studio-v1.0.0-source.zip
+31f1fd14b9036d941c1648ddb262e789fb38225af8e1025d8c29ef26bab0801e  PolarLabs-QR-Studio-v1.0.0-Windows-ARM64.zip
